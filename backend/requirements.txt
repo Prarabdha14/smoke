@@ -1,0 +1,6 @@
+Flask
+flask-cors
+flask-sqlalchemy
+tensorflow
+opencv-python
+psycopg2-binary
