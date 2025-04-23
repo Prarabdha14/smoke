@@ -4,7 +4,7 @@ import cv2
 import os
 
 # Load model once at the start
-model_path = os.path.join('ai_models', 'smoke_detection_model.h5')
+model_path = os.path.join('ai_models', '/Users/prarabdhapandey/smoke-detector-app/backend/ai_models/smoke_detection_model_Final.h5')
 
 # Try loading the model and handle potential errors
 try:
